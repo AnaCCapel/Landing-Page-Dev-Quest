@@ -1,0 +1,117 @@
+.cabecalho nav ul {
+    display: flex;   
+}
+
+.cabecalho nav ul li a {
+    margin-left: 4px;
+    font-size: 20px;
+    color: var(--cor-dois);
+    font-weight: 500;
+    padding: 10px 28px;
+    border-radius: 50px;
+    transition: 0.3s ease-in-out;
+}
+
+.cabecalho nav ul li a:hover {
+    color: var(--cor-quatro);
+    background-color: var(--cor-dois);
+}
+
+/* Responsivel */
+
+.cabecalho .menu {
+    display: none;
+    width: 60px;
+    height: 60px;
+    align-self: flex-end;
+}
+
+.cabecalho nav label{
+    display: flex;
+    flex-direction: column;
+}
+
+.cabecalho .responsivel {
+    border-radius: 8px;
+    position: relative;
+    display: block;
+    width: 30px;
+    height: 2px;
+    top: 29px;
+    left: 15px;
+    background-color: var(--cor-um);
+    transition: 0.5s ease-in-out;
+}
+
+.cabecalho .responsivel::before,
+.cabecalho .responsivel::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    position: absolute;
+    background-color: var(--cor-um);
+    transition: 0.2s ease-in-out;
+}
+
+.cabecalho .responsivel::before {
+    top: -10px;
+
+}
+
+.cabecalho .responsivel::after {
+    bottom: -10px;
+}
+
+.cabecalho input {
+    display: none;
+}
+
+.cabecalho input:checked~label .responsivel {
+    transform: rotate(45deg);
+}
+
+.cabecalho input:checked~label .responsivel::before {
+    top: 0;
+    transform: rotate(90deg);
+}
+
+.cabecalho input:checked~label .responsivel::after {
+    bottom: 0;
+    transform: rotate(90deg);
+}
+
+@media (max-width:900px) {
+    .cabecalho .menu {
+        display: block;
+    }
+
+    .cabecalho nav ul {
+        display: none;
+    }
+
+    .cabecalho input:checked~ul {
+        display: block;
+    }
+
+    .cabecalho nav {
+        position: absolute;
+        top: 8px;
+        right: 20px;
+        z-index: 1;
+    }
+
+    .cabecalho nav ul{
+        width: 200px;
+        padding: 20px;
+        background-color: var(--cor-quatro);
+    }
+
+    .cabecalho nav ul a{
+        margin-top: 8px;
+        padding: 22px;
+        display: block;
+        text-align: center;
+    }
+
+}
