@@ -13,9 +13,9 @@
 
 <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" /> → Estilização completa;
 
-<img src="https://img.shields.io/badge/Grid-62CDFF?style=for-the-badge&logo=css3&logoColor=white" /> -> Organização dos blocos principais;
+<img src="https://img.shields.io/badge/Grid-62CDFF?style=for-the-badge&logo=css3&logoColor=white" /> → Organização dos blocos principais;
 
-<img src="https://img.shields.io/badge/Flexbox-AA77FF?style=for-the-badge&logo=css3&logoColor=white" /> -> Alinhamentos internos e responsividade.
+<img src="https://img.shields.io/badge/Flexbox-AA77FF?style=for-the-badge&logo=css3&logoColor=white" /> → Alinhamentos internos e responsividade.
 
 <br>
 
@@ -26,9 +26,7 @@
 ✔️ Layout responsivo adaptado para desktop e mobile.
 
 <br>
-
 ## 🖼️ Demonstração:
-
 <br>
 
 **💻 Versão Desktop:**
@@ -42,6 +40,8 @@
 
 <img width="381" height="5603" alt="screencapture-127-0-0-1-5500-index-html-2025-09-12-22_23_27" src="https://github.com/user-attachments/assets/a745a2e2-698f-453f-9c71-3e1073b05849" />
 
+<br>
+<br>
 <br>
 <br>
 
