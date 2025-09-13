@@ -21,6 +21,8 @@
 <br>
 ✔️ Layout responsivo adaptado para desktop e mobile.
 
+<br>
+
 ## 🖼️ Demonstração:
 
 <br>
