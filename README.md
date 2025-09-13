@@ -4,8 +4,6 @@
 
 * O projeto tem como objetivo praticar e aplicar conceitos fundamentais de desenvolvimento web, explorando recursos do HTML5 e CSS3 com foco em responsividade, organização de layout com Grid e Flexbox, e na implementação de navegação por âncoras para melhor experiência do usuário.
 * Além de servir como um portfólio pessoal, o projeto busca consolidar habilidades em estruturação semântica, estilização moderna e interatividade com efeitos visuais, sendo uma base sólida para evoluções futuras com JavaScript e outras tecnologias.
-
-<br>
   
 ## 💻 Tecnologias Utilizadas:
 
@@ -17,16 +15,15 @@
 
 <img src="https://img.shields.io/badge/Flexbox-AA77FF?style=for-the-badge&logo=css3&logoColor=white" /> → Alinhamentos internos e responsividade.
 
-<br>
-
 ## 🎨 Funcionalidades & Destaques:
 
 ✔️ Navegação por links âncora, levando o usuário diretamente para a seção desejada.
 <br>
 ✔️ Layout responsivo adaptado para desktop e mobile.
 
-<br>
 ## 🖼️ Demonstração:
+
+<br>
 <br>
 
 **💻 Versão Desktop:**
