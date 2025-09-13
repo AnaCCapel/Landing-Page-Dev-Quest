@@ -22,9 +22,7 @@
 ## 🎨 Funcionalidades & Destaques:
 
 ✔️ Navegação por links âncora, levando o usuário diretamente para a seção desejada.
-
 <br>
-
 ✔️ Layout responsivo adaptado para desktop e mobile.
 
 <br>
@@ -37,6 +35,7 @@
 
 <img width="1024" height="1820" alt="screencapture-127-0-0-1-5500-index-html-2025-09-12-22_21_43" src="https://github.com/user-attachments/assets/0ffe87c2-0564-4865-845a-37af0eb6d4f3" />
 
+<br>
 <br>
 
 **📱 Versão Mobile:**
