@@ -24,7 +24,6 @@
 ## 🖼️ Demonstração:
 
 <br>
-<br>
 
 **💻 Versão Desktop:**
 
