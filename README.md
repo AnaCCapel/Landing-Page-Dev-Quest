@@ -1,6 +1,4 @@
-# Projeto Landing Page com **Grid e Flex.**  
-
-<br>
+# Projeto Landing Page com **Grid e Flex:**  
 
 ## 🎯 Objetivo:
 
