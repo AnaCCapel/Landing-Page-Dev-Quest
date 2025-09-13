@@ -234,6 +234,7 @@ body {
 
 .rodape .social i:hover {
     color: var(--cor-tres);
+    font-size: 32px;
 }
 
 .rodape .social a {
